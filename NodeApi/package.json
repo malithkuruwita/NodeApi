@@ -1,0 +1,15 @@
+{
+  "name": "client-node",
+  "version": "1.0.0",
+  "description": "express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Malith",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "upper-case": "^1.1.3"
+  }
+}
