@@ -13,10 +13,6 @@ let bearArray = [
     {
         id:3, 
         name:'Panda Bear'
-    },
-    {
-        id:4,
-        name:'Testing Bear'
     }
 
 ]
